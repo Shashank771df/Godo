@@ -1,6 +1,6 @@
 # Godo - CLI Task Manager
 
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepo.svg)](https://github.com/YourUsername/YourRepo/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Shashank771df/Godo.svg)](https://github.com/Shashank771df/Godo/stargazers)
 
 Godo is a simple Command Line Interface (CLI) task manager written in Go. It allows users to manage their tasks efficiently directly from the terminal.
 
@@ -18,4 +18,4 @@ Godo is a simple Command Line Interface (CLI) task manager written in Go. It all
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/YourUsername/YourRepo.git
+   git clone https://github.com/Shashank771df/Godo.git
