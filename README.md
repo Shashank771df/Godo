@@ -1,4 +1,4 @@
-# Godo - CLI Task Manager
+# Godo - Golang CLI Task Manager
 
 [![GitHub stars](https://img.shields.io/github/stars/Shashank771df/Godo.svg)](https://github.com/Shashank771df/Godo/stargazers)
 
